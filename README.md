@@ -5,4 +5,4 @@ WebAR буклет: "Обчислювальна машина Штаффеля".
 
 Link: https://lemaster-dev.github.io/WebAR_Lab1/ 
 
-screens/2.2.1.4.png
+<img src="screens/2.2.1.4.png alt="screen" width="100">
