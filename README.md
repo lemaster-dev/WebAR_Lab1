@@ -4,3 +4,5 @@ WebAR буклет: "Обчислювальна машина Штаффеля".
 Студент групи: АІ-243. 
 
 Link: https://lemaster-dev.github.io/WebAR_Lab1/ 
+
+screens/2.2.1.4.png
